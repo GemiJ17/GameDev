@@ -6,7 +6,7 @@ public class GameplayUIUpdater : MonoBehaviour
     public Text hpText;
     public Text timerText;
     public Text scoreText;
-    public int a = 0;
+    public int b = 10;
 
     private MainLogic mainLogic;
 
